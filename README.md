@@ -1,4 +1,4 @@
-![](kbmajeed.PNG)  
+![](assets/imgs/kbmajeed.PNG)  
 ## About Me  
 I am ME ! :D :) ;)  
 ## My Resume  
