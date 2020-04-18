@@ -3,7 +3,7 @@
 I am ME ! :D :) ;)  
 ## My Resume  
 <p> 
-  CV/Resume : <a href="https://github.com/kbmajeed/KbmajeedCV19/blob/master/Kbmajeed_CV_2019.pdf">Download PDF</a> 
+  CV/Resume : <a href="https://github.com/kbmajeed/Kbmajeed_CV_Resume/blob/master/Abdulmajeed_CV.pdf">View/Download PDF</a> 
 </p>
 
   
