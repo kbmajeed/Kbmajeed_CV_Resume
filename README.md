@@ -1,7 +1,4 @@
-## Official Portrait
-![](kabir_abdulmajeed_photo1.jpg)  
-
-## Creative Portrait
+## Portrait
 ![](kabir_abdulmajeed_photo2.jpg)  
 
 ## About Me  
