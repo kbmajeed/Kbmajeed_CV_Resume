@@ -1,8 +1,8 @@
 ## Official Portrait
-![](formal_photo1.jpg)  
+![](kabir_abdulmajeed_photo1.jpg)  
 
 ## Creative Portrait
-![](formal_photo2.jpg)  
+![](kabir_abdulmajeed_photo2.jpg)  
 
 ## About Me  
 I am ME ! :D :) ;) 
