@@ -1,8 +1,8 @@
 ## Official Portrait
-![](kabir_abdulmajeed.PNG)
+![](formal_photo1.jpg)  
 
 ## Creative Portrait
-![](kbmajeed.PNG)  
+![](formal_photo2.jpg)  
 
 ## About Me  
 I am ME ! :D :) ;) 
