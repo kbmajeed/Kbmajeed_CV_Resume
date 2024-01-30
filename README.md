@@ -11,7 +11,7 @@ First programming language: **`QBasic`** back in 2006!
 
 ## My Resume (2021)  
 <p> 
-  CV/Resume : <a href="https://github.com/kbmajeed/Kbmajeed_CV_Resume/blob/master/Abdulmajeed_CV.pdf">View/Download PDF</a> 
+  CV/Resume : <a href="NA"> View/Download PDF</a> 
 </p>
 
 ## Others    
